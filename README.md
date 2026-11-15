@@ -67,8 +67,7 @@ Buka terminal atau Command Prompt pada direktori utama proyek (Tugas_struktur_da
 
 A. Clone Repositori
 Bash
-git clone [https://github.com/sheeper494-beep/Tugas_struktur_data.git](https://github.com/sheeper494-beep/Tugas_struktur_data.git)
-cd Tugas_struktur_data
+git clone https://github.com/calvinsatria/Tugas_struktur_data.git
 B. Cara Build (Kompilasi Proyek)
 Gunakan Maven untuk mengunduh seluruh dependensi dan mengompilasi kode sumber Java:
 
