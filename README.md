@@ -130,6 +130,3 @@ Klik Agregasi untuk melihat ringkasan statistik data putusan yang sedang dimuat 
 Klik Riwayat Audit untuk memeriksa log operasi penambahan, penghapusan, atau perubahan data selama sesi berjalan.
 
 Klik Ekspor CSV untuk menyimpan hasil filter atau pengurutan ke dalam berkas .csv baru.
-
-
-Setelah ditempel, klik tombol hijau **Commit changes...** di bagian bawah atau atas editor untuk menyimpan perubahan, dan tampilan `README.md` Anda akan langsung berubah menjadi rapi, terstruktur, dan mudah dibaca!
